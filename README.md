@@ -36,19 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/k0t1K228/k0t1K228/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=k0t1K228&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/k0t1K228/k0t1K228/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="307" src="https://i.imgflip.com/7aoidd.jpg"  />
 </div>
